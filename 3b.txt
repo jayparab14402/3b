@@ -1,0 +1,7 @@
+Importing Spreadsheets or CSV files
+
+1.Many times the GIS data comes in a table or an Excel spreadsheet
+or a list lat/long coordinates, therefore it has to be imported in a GIS project.
+2.Sample file for Earthquake data will be used in this practical.
+3.Go to Layer → Add Layer → Add Delimited text Layer >Add siginif
+
